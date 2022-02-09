@@ -1,19 +1,9 @@
-# ninja-jobs
+# TODO app
 
-## Project setup
-```
-yarn install
-```
+## Project info
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+This's my start with creating a frontend in Vue.
+I learned a lot from great tutorials:
+#### https://vueschool.io/courses/vuejs-fundamentals
+#### https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
