@@ -9,6 +9,7 @@ I learned a lot from two great tutorials which I can recommended for beginners:
 
 The app is like a sandbox where I could try how Vue works. I tried learn how to:
 - use router
+- fetch data
 - create new components
 - use build-in directives
 
